@@ -1,6 +1,6 @@
 # 1. WAP to implement the Perceptron Learning Algorithm using numpy in Python. Evaluate performance of a single perceptron for NAND and XOR truth tables as input dataset.
 
-# Step 1: Import Required Libraries
+# Step 1: Import lib..
 import numpy as np
 
 # Step 2: Define Perceptron Class
